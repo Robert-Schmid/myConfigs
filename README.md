@@ -1,2 +1,2 @@
-# myConifgs
+# myConfigs
 various dot-files
