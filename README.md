@@ -1,2 +1,1 @@
-# myConfigs
-various dot-files
+# Deprecated - see configuration
